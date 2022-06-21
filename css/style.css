@@ -1,0 +1,8 @@
+.imagenprincipal {
+    width: 100%;
+  }
+  
+  .imagenprincipaltamaño {
+    object-fit: cover;
+    height: 300px;
+  }
