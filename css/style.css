@@ -1,43 +1,47 @@
 .badge {
   color: white;
 }
-
 .badgePlanta {
   background-color: #9bcc50;
 }
-
 .badgeVeneno {
   background-color: #b97fc9;
 }
-
 .badgeFuego {
   background-color: #fd7d24;
 }
-
 .badgeVolador {
   background-color: #bdb9b8;
 }
-
 .badgeAgua {
   background-color: #0d6efd;
 }
-
 .badgeBicho {
   background-color: #9bcc50;
 }
-
 .badgePsiquico{
   background-color: #f366b9;
 }
-
 .badgeHielo{
     background-color: #51c4e7;
 }
 
+.evoluciones{
+    background-color: #e2e0e0;
+}
+
+.modalTextos{
+    line-height: 0.5;
+    font-size:small;
+}
+
+.modalTitulos{
+    font-size:small;
+} 
 .imagenprincipal {
     width: 100%;
   }
-  
+
   .imagenprincipaltamaño {
     object-fit: cover;
     height: 300px;
