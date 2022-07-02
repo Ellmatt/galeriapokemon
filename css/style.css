@@ -60,3 +60,8 @@
   .badgeCeleste{
     background-color: #59c6e7;
   }
+  .fullCard{
+    border: 1px solid rgb(136, 136, 136);
+    background-color: rgb(199, 197, 197);
+  } 
+  
